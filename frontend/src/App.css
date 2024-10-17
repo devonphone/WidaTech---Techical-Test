@@ -1,0 +1,25 @@
+/* App.css */
+/* General Body Styles */
+
+body {
+  font-family: Arial, sans-serif; /* Use a clean font */
+  line-height: 1.6; /* Improve text readability */
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4; /* Light background for contrast */
+}
+
+.form-field {
+  margin-bottom: 16px; /* Adjust this value as needed */
+}
+
+
+/* Main App Container */
+.app-container {
+  max-width: 1200px; /* Limit the width of the app */
+  margin: 20px auto; /* Center the app with top/bottom margin */
+  padding: 20px; /* Add padding for inner spacing */
+  background: #ffffff; /* White background for content area */
+  border-radius: 8px; /* Rounded corners for a modern look */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
